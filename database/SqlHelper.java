@@ -1,4 +1,4 @@
-package mobi.kinetica.foodmeter.core.helpers;
+package com.raulete.androidweaponry;
 
 import android.content.Context;
 import android.content.res.AssetManager;
